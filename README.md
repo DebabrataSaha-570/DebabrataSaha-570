@@ -11,7 +11,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 ### Connect with me:
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/) 
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/debabrata-saha-26b2b2215/) 
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://web.facebook.com/) 
 <!-- [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://medium.com/)  -->
 
