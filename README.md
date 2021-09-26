@@ -22,7 +22,7 @@
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=DebabrataSaha-570&card_width=550&show_icons=true&theme=radical)](https://github.com/DebabrataSaha-570)
 
-<!-- ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DebabrataSaha-570&theme=highcontrast) -->
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DebabrataSaha-570&theme=highcontrast)
 
 
 
