@@ -18,9 +18,9 @@
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=DebabrataSaha-570&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=DebabrataSaha-570&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=DebabrataSaha-570&card_width=550&show_icons=true&theme=radical)](https://github.com/DebabrataSaha-570)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=DebabrataSaha-570&card_width=550&show_icons=true&theme=radical)](https://github.com/DebabrataSaha-570) -->
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DebabrataSaha-570&theme=highcontrast)
 
