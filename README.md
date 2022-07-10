@@ -1,28 +1,20 @@
-# Hi, I am Debabrata Saha 
+## Hey, I'm Debabrata Saha. 
+I live in Bangladesh. I like books, good food, being outside, and coding.
+
+### Get In Touch
+<a href="mailto:sahadebabrata570@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/debabrata-saha-shuvo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="/"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> <a href="/"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a> 
+
+### What I Work With
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
+...and many others
 
 
-### I am a MERN stack web developer. 
+### My Favorite Project Repos
+* <a href="https://github.com/DebabrataSaha-570/Saha-Motors-Client">Saha Motors</a> - Car booking website
+* <a href="https://github.com/DebabrataSaha-570/volunteer-network-client">Volunteer Network</a> - Volunteer Register website
+* <a href="https://github.com/DebabrataSaha-570/Trip-to-Paradise-Client">Trip to Paradise</a> - Tour bookig website
 
-<!-- - 🔭 I’m currently working on ... -->
-<!-- - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
-### Connect with me:
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/debabrata-saha-26b2b2215/) 
-[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://web.facebook.com/) 
-<!-- [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://medium.com/)  -->
-
-<br />
-
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=DebabrataSaha-570&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
-
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=DebabrataSaha-570&card_width=550&show_icons=true&theme=radical)](https://github.com/DebabrataSaha-570) -->
-
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DebabrataSaha-570&theme=highcontrast)
+![Debabrata's GitHub stats](https://github-readme-stats.vercel.app/api?username=kungojung&show_icons=true&theme=dark)
 
 
 
