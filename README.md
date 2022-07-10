@@ -14,35 +14,11 @@ I live in Bangladesh. I like books, good food, being outside, and coding.
 * <a href="https://github.com/DebabrataSaha-570/volunteer-network-client">Volunteer Network</a> - Volunteer Register website
 * <a href="https://github.com/DebabrataSaha-570/Trip-to-Paradise-Client">Trip to Paradise</a> - Tour bookig website
 
-<img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
-
-  <summary>📊 Github Readme Stats</summary>
- </br>
- <p align="center">
-  <a href="https://github.com/web-shoharab-pk">
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=web-shoharab-pk&show_icons=true&theme=radical&count_private=true">
-  </a>
-  <a href="https://github.com/web-shoharab-pk/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=web-shoharab-pk&layout=compact&theme=radical&langs_count=6" />
-  </a>
- </p>
-<p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=web-shoharab-pk&theme=radical&hide_border=true"/>
-</p>
-
-<details>
- <summary>🏆 Github Profile Trophy</summary>
- </br>
- <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img src="https://github-profile-trophy.vercel.app/?username=web-shoharab-pk&column=8&theme=darkhub"/>
-  </a>
- </p>
-</details>
 
 
 
-<!-- ![Debabrata's GitHub stats](https://github-readme-stats.vercel.app/api?username=DebabrataSaha-570&show_icons=true&theme=dark) -->
+
+[Debabrata's GitHub stats](https://github-readme-stats.vercel.app/api?username=DebabrataSaha-570&show_icons=true&theme=dark) 
 
 
 
