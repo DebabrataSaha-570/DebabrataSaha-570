@@ -14,9 +14,9 @@ I live in Bangladesh. I like books, good food, being outside, and coding.
 * <a href="https://github.com/DebabrataSaha-570/volunteer-network-client">Volunteer Network</a> - Volunteer Register website
 * <a href="https://github.com/DebabrataSaha-570/Trip-to-Paradise-Client">Trip to Paradise</a> - Tour bookig website
 
-<div align="center">
-![Debabrata's GitHub stats](https://github-readme-stats.vercel.app/api?username=DebabrataSaha-570&show_icons=true&theme=dark) 
+<div align="left">
   <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/DebabrataSaha-570/DebabrataSaha-570/blob/main/devcard.svg" width="200" alt="Debabrata Saha's Dev Card"/></a>
+![Debabrata's GitHub stats](https://github-readme-stats.vercel.app/api?username=DebabrataSaha-570&show_icons=true&theme=dark) 
 </div>
 
 
