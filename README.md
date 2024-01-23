@@ -9,12 +9,12 @@ I live in Bangladesh. I like books, good food, being outside, and coding.
 ...and many others
 
 
-### ☄️ Github Streaks:
+### Github Streaks
 <p align="center">
     <img alt="Debabrata Saha's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DebabrataSaha-570&theme=tokyonight&hide_border=true"/>
 </p>
 
-### ⚡ Github Stats:
+### Github Stats
 
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=DebabrataSaha-570&show_icons=true&hide_border=true&theme=tokyonight" alt="Debabrata Saha's stats" />
@@ -23,9 +23,9 @@ I live in Bangladesh. I like books, good food, being outside, and coding.
 </p>
 
 
-<div align="left">
-  <a href="https://app.daily.dev/saha_debabrata"><img src="https://github.com/DebabrataSaha-570/DebabrataSaha-570/blob/main/devcard.svg" width="200" alt="Debabrata Saha's Dev Card"/></a>
-</div>
+<p align="center">
+  <a href="https://app.daily.dev/saha_debabrata"><img src="https://github.com/DebabrataSaha-570/DebabrataSaha-570/blob/main/devcard.svg" width="300" alt="Debabrata Saha's Dev Card"/></a>
+</p>
 
 
 
