@@ -8,7 +8,6 @@ I live in Bangladesh. I like books, good food, being outside, and coding.
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="26px" style="max-width:100%;">
 ...and many others
 
----
 
 ### ☄️ Github Streaks:
 <p align="center">
@@ -23,7 +22,6 @@ I live in Bangladesh. I like books, good food, being outside, and coding.
 	
 </p>
 
----
 
 <div align="left">
   <a href="https://app.daily.dev/saha_debabrata"><img src="https://github.com/DebabrataSaha-570/DebabrataSaha-570/blob/main/devcard.svg" width="200" alt="Debabrata Saha's Dev Card"/></a>
