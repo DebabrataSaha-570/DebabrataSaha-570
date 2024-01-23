@@ -16,6 +16,6 @@ I live in Bangladesh. I like books, good food, being outside, and coding.
 
 ![Debabrata's GitHub stats](https://github-readme-stats.vercel.app/api?username=DebabrataSaha-570&show_icons=true&theme=dark) 
 
-
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/DebabrataSaha-570/DebabrataSaha-570/blob/main/devcard.svg" width="400" alt="Debabrata Saha's Dev Card"/></a>
 
 
