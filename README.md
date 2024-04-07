@@ -32,9 +32,6 @@ I live in Bangladesh. I like books, good food, being outside, and coding.
 
 
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=DebabrataSaha-570&label=Profile%20views&color=0e75b6&style=flat" alt="Debabrata_Saha" />
-</p>
 
 
 
