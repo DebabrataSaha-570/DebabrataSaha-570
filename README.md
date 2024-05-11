@@ -26,7 +26,7 @@ I live in Bangladesh. I like books, good food, being outside, and coding.
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
 
 
- ### Github Streaks
+ ### Github Stats
 <p align="start">
     <img alt="Debabrata Saha's streak" src="https://github-readme-stats.vercel.app/api?username=DebabrataSaha-570&show_icons=true&theme=dark"/>
 
@@ -37,19 +37,6 @@ I live in Bangladesh. I like books, good food, being outside, and coding.
  
 </p>
 
-### others
-
- <p align="center">
-  <a href="https://github.com/DebabrataSaha-570">
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=DebabrataSaha-570&show_icons=true&theme=dark&count_private=true">
-  </a>
-  <a href="https://github.com/DebabrataSaha-570/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DebabrataSaha-570&layout=compact&theme=dark&langs_count=6" />
-  </a>
- </p>
-<p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DebabrataSaha-570&theme=dark&hide_border=true"/>
-</p>
 
 
 
