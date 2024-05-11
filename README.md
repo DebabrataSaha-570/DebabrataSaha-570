@@ -33,14 +33,8 @@ I live in Bangladesh. I like books, good food, being outside, and coding.
 </p>
 
 <p align="center">
- 
-
        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebabrataSaha-570&langs_count=14&theme=dark&layout=compact&hide=html"> 
- 
- 
-     ><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=DebabrataSaha-570&theme=dark&hide_border=true">
-   
- 
+       <img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=DebabrataSaha-570&theme=dark&hide_border=true">
 </p>
 
 
