@@ -8,7 +8,7 @@ I live in Bangladesh. I like books, good food, being outside, and coding.
 
 ### Get In Touch
 
-<a href="mailto:sahadebabrata570@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/debabrata-saha-shuvo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  <a href="https://debabrata-saha.netlify.app/"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a> <a href="https://stackoverflow.com/users/15363400/debabrata-saha?tab=profile"><img src="https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=white"></a> 
+<a href="mailto:sahadebabrata570@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/debabrata-saha-shuvo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  <a href="https://debabrata-saha.vercel.app/"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a> <a href="https://stackoverflow.com/users/15363400/debabrata-saha?tab=profile"><img src="https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=white"></a> 
 
 ### What I work With
 
