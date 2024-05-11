@@ -1,3 +1,8 @@
+<a href="https://www.linkedin.com/in/debabrata-saha-shuvo/">
+<img src="https://github.com/DebabrataSaha-570/DebabrataSaha-570/blob/main/debabrata_saha_banner.png" />
+</a>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DebabrataSaha-570&label=Profile%20views&color=0e75b6&style=flat" alt="Debabrata Saha" /> </p>
 
 
