@@ -4,14 +4,15 @@
 # Hey, I'm Debabrata Saha 👋 
 <div align="left">
 Hello, I'm Debabrata Saha . I'm a Front End Web developer based in Noakhali, Bangladesh. I'm always looking for new ways to solve problems and come up with fresh ideas. Every project I take on is a chance for me to learn something new and do my best work for my clients.
+
+ <a style="z-index: 10" href="https://app.daily.dev/saha_debabrata"><img src="https://github.com/DebabrataSaha-570/DebabrataSaha-570/blob/main/devcard.svg" width="256" align="right" alt="Debabrata Saha's Dev Card"/></a>
+
  
 - I'm aspiring 🔭️ Web Developer currently learning 🌱 **Next JS**.
 - I always like working in **Visual Studio Code** Environment.
 - I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
 - 💬 Ask me about **React, Node and JavaScript.**
 - 📫 How to reach me **sahadebabrata570@gmail.com**
-
-<a style="z-index: 10" href="https://app.daily.dev/saha_debabrata"><img src="https://github.com/DebabrataSaha-570/DebabrataSaha-570/blob/main/devcard.svg" width="256" align="right" alt="Debabrata Saha's Dev Card"/></a>
  
 </div>
 
