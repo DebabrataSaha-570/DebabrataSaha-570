@@ -48,6 +48,12 @@ Hello, I'm Debabrata Saha . I'm a Front End Web developer based in Noakhali, Ban
  
 </p>
 
+### My recent blog posts
+- [10 Core Concepts of React.js: A Fun Journey Through the World of Web Development!](https://medium.com/@sahadebabrata570/10-core-concepts-of-react-js-a-fun-journey-through-the-world-of-web-development-08e590ca014a)
+- [6 Reasons Why You Should Pick TypeScript Over JavaScript.](https://medium.com/@sahadebabrata570/6-reasons-why-you-should-pick-typescript-over-javascript-61534eec238b)
+- [Next.js vs React: Which Framework to Choose for Front-end in 2024?](https://medium.com/@sahadebabrata570/next-js-vs-react-which-framework-to-choose-for-front-end-in-2024-9929fbeead90)
+
+
 
 
 
