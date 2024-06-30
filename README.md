@@ -44,11 +44,11 @@ Hello, I'm Debabrata Saha . I'm a Front End Web developer based in Noakhali, Ban
 
  ### Github Stats
 <p align="start">
-    <img alt="Debabrata Saha's streak" src="https://github-readme-stats.vercel.app/api?username=DebabrataSaha-570&show_icons=true&theme=dark"/>
+    <img alt="Debabrata Saha's streak" src="https://github-readme-stats.vercel.app/api?username=DebabrataSaha-570&show_icons=true&theme=react"/>
 
  <p align="start">
-  <img alt="Debabrata Saha's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DebabrataSaha-570&theme=dark&hide_border=true"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebabrataSaha-570&langs_count=14&theme=dark&layout=compact&hide=html"> 
+  <img alt="Debabrata Saha's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DebabrataSaha-570&theme=react&hide_border=true"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebabrataSaha-570&langs_count=14&theme=react&layout=compact&hide=html"> 
  </p>
  
 </p>
