@@ -9,7 +9,7 @@
 # Hey, I'm Debabrata Saha 👋 
 
 <div align="left">
-Hello, I'm Debabrata Saha. I'm a Web Developer based in Noakhali, Bangladesh. I enjoy solving real-world problems and building modern, user-friendly web applications. Every project I work on is an opportunity to learn, improve, and deliver high-quality solutions.
+Hello, I'm Debabrata Saha. I'm a Web Developer based in Dhaka, Bangladesh. I enjoy solving real-world problems and building modern, user-friendly web applications. Every project I work on is an opportunity to learn, improve, and deliver high-quality solutions.
 
 <a style="z-index: 10" href="https://app.daily.dev/saha_debabrata"><img src="https://github.com/DebabrataSaha-570/DebabrataSaha-570/blob/main/devcard.svg" width="256" align="right" alt="Debabrata Saha's Dev Card"/></a>
 
