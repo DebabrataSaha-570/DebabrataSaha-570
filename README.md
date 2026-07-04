@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/debabrata-saha-shuvo/">
-<img src="https://github.com/DebabrataSaha-570/DebabrataSaha-570/blob/main/debabrata_saha_banner.png" />
+<img src="https://github.com/DebabrataSaha-570/DebabrataSaha-570/blob/main/debabrata-saha-banner.png" />
 </a>
 
 
