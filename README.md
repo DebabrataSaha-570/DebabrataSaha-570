@@ -7,19 +7,22 @@
 
 
 # Hey, I'm Debabrata Saha 👋 
+
 <div align="left">
-Hello, I'm Debabrata Saha . I'm a Front End Web developer based in Noakhali, Bangladesh. I'm always looking for new ways to solve problems and come up with fresh ideas. Every project I take on is a chance for me to learn something new and do my best work for my clients.
+Hello, I'm Debabrata Saha. I'm a Web Developer based in Noakhali, Bangladesh. I enjoy solving real-world problems and building modern, user-friendly web applications. Every project I work on is an opportunity to learn, improve, and deliver high-quality solutions.
 
- <a style="z-index: 10" href="https://app.daily.dev/saha_debabrata"><img src="https://github.com/DebabrataSaha-570/DebabrataSaha-570/blob/main/devcard.svg" width="256" align="right" alt="Debabrata Saha's Dev Card"/></a>
+<a style="z-index: 10" href="https://app.daily.dev/saha_debabrata"><img src="https://github.com/DebabrataSaha-570/DebabrataSaha-570/blob/main/devcard.svg" width="256" align="right" alt="Debabrata Saha's Dev Card"/></a>
 
- 
-- I'm aspiring 🔭️ Web Developer currently learning 🌱 **Next JS**.
-- I always like working in **Visual Studio Code** Environment.
-- I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
-- 💬 Ask me about **React, Node and JavaScript.**
-- 📫 How to reach me **sahadebabrata570@gmail.com**
- 
+- 💼 Currently working as an **Assistant Web Developer**.
+- 🌱 Currently learning **Python Backend Development & AI**.
+- 💻 I enjoy working with **JavaScript, TypeScript, React, Next.js, Redux, and Shopify**.
+- 🚀 I'm always eager to learn new technologies and improve my problem-solving skills.
+- 💬 Ask me about **React, Next.js, JavaScript, TypeScript, Redux, and Shopify**.
+- 📫 How to reach me: **sahadebabrata570@gmail.com**
+
 </div>
+
+
 
 
 ### Get In Touch
@@ -28,18 +31,30 @@ Hello, I'm Debabrata Saha . I'm a Front End Web developer based in Noakhali, Ban
 
 ### What I work With
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React.js](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
+
+![Shopify](https://img.shields.io/badge/Shopify-95BF47.svg?style=for-the-badge&logo=shopify&logoColor=white)
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=prisma&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
  ### Github Stats
